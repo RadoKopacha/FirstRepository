@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\bin\Debug\net8.0\MidleNumber.exe
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\bin\Debug\net8.0\MidleNumber.deps.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\bin\Debug\net8.0\MidleNumber.runtimeconfig.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\bin\Debug\net8.0\MidleNumber.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\bin\Debug\net8.0\MidleNumber.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.sourcelink.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\refint\MidleNumber.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\MidleNumber.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\MidleNumber\obj\Debug\net8.0\ref\MidleNumber.dll

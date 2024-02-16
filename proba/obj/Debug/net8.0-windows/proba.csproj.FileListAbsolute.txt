@@ -14,3 +14,4 @@ C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-wind
 C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.pdb
 C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.genruntimeconfig.cache
 C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\ref\proba.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.sourcelink.json
