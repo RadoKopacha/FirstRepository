@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.Form1.resources
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\bin\Debug\net8.0-windows\proba.exe
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\bin\Debug\net8.0-windows\proba.deps.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\bin\Debug\net8.0-windows\proba.runtimeconfig.json
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\bin\Debug\net8.0-windows\proba.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\bin\Debug\net8.0-windows\proba.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\refint\proba.dll
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.pdb
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\proba.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-1\Documents\Radoslav 9a\proba\proba\obj\Debug\net8.0-windows\ref\proba.dll
